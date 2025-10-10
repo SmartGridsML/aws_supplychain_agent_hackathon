@@ -1,0 +1,22 @@
+venv/
+.env
+
+.DS_Store
+.idea/
+.vscode/
+*.log
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.egg-info/
+dist/
+
+# Ignore environment variable files
+.env.local
+.env.*.local
+.envrc
+# Ignore Jupyter Notebook checkpoints
+
