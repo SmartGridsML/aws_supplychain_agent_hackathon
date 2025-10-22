@@ -20,3 +20,5 @@ dist/
 .envrc
 # Ignore Jupyter Notebook checkpoints
 
+python/
+frontend/node_modules/
