@@ -22,3 +22,13 @@ dist/
 
 python/
 frontend/node_modules/
+agent_memory/*.zip
+autonomous_monitor/*.zip
+autonomous_monitor/package/
+bedrock_agent/lambdas/
+kaggle.json
+
+# Ignore deployment artifacts
+bedrock_agent/deployments/
+bedrock-agent-api-gateway/deployments/
+bedrock-agent-api-gateway/lambdas/
