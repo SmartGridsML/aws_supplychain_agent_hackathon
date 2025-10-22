@@ -7,6 +7,8 @@ Enterprise-grade AI agent for supply chain management powered by AWS Bedrock and
 
 ## 🏗️ Architecture
 
+![Supply Chain AI Architecture](generated-diagrams/supply_chain_ai_complete_architecture.png)
+
 **✅ AWS Requirements Met:**
 - **LLM**: Claude 3.7 Sonnet on AWS Bedrock
 - **Agent Core**: Bedrock Agent with 5 action groups
