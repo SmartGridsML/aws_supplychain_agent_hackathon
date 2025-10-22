@@ -31,4 +31,4 @@ kaggle.json
 # Ignore deployment artifacts
 bedrock_agent/deployments/
 bedrock-agent-api-gateway/deployments/
-bedrock-agent-api-gateway/lambdas/
+
